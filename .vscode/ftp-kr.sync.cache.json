@@ -83,6 +83,12 @@
           "lmtime": 0,
           "modified": false
         },
+        "atob": {
+          "type": "l",
+          "size": 19,
+          "lmtime": 0,
+          "modified": false
+        },
         "autoprefixer": {
           "type": "l",
           "size": 32,
@@ -95,6 +101,12 @@
           "lmtime": 0,
           "modified": false
         },
+        "color-support": {
+          "type": "l",
+          "size": 23,
+          "lmtime": 0,
+          "modified": false
+        },
         "cssesc": {
           "type": "l",
           "size": 20,
@@ -104,6 +116,12 @@
         "glob": {
           "type": "l",
           "size": 24,
+          "lmtime": 0,
+          "modified": false
+        },
+        "gulp": {
+          "type": "l",
+          "size": 19,
           "lmtime": 0,
           "modified": false
         },
@@ -137,9 +155,33 @@
           "lmtime": 0,
           "modified": false
         },
+        "nodemon": {
+          "type": "l",
+          "size": 25,
+          "lmtime": 0,
+          "modified": false
+        },
+        "nodetouch": {
+          "type": "l",
+          "size": 25,
+          "lmtime": 0,
+          "modified": false
+        },
+        "nopt": {
+          "type": "l",
+          "size": 19,
+          "lmtime": 0,
+          "modified": false
+        },
         "resolve": {
           "type": "l",
           "size": 22,
+          "lmtime": 0,
+          "modified": false
+        },
+        "semver": {
+          "type": "l",
+          "size": 20,
           "lmtime": 0,
           "modified": false
         },
