@@ -1,4 +1,4 @@
-import { CMS_NAME, OG_URL } from "../lib/constants";
+import { CMS_NAME, FRONT_URL } from "../lib/constants";
 
 export default function Intro() {
   return (
@@ -9,10 +9,10 @@ export default function Intro() {
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-2">
         Hosted by{" "}
         <a
-          href={OG_URL}
+          href={FRONT_URL}
           className="underline hover:text-success duration-200 transition-colors"
         >
-          {OG_URL}
+          {FRONT_URL}
         </a>
         .
       </h4>
