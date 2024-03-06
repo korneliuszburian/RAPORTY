@@ -219,4 +219,5 @@ Alternatively, you can deploy using our template by clicking on the Deploy butto
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/next.js/tree/canary/examples/cms-wordpress&project-name=cms-wordpress&repository-name=cms-wordpress&env=WORDPRESS_API_URL&envDescription=Required%20to%20connect%20the%20app%20with%20WordPress&envLink=https://vercel.link/cms-wordpress-env)
 #   R A P O R T Y  
  #   R A P O R T Y  
+ #   R A P O R T Y  
  
