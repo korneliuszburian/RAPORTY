@@ -50,11 +50,11 @@ export async function getAllReportsForHome() {
       reports {
         edges {
           node {
-            id
             title
-            reports {
-              folderName
-              name
+            reportFields {
+              __typename
+              folder_name
+              report_name
             }
           }
         }
