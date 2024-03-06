@@ -1,0 +1,381 @@
+{
+  "ftp://bless9563@master.proudhost.eu:21": {
+    ".env.local": {
+      "type": "-",
+      "size": 169,
+      "lmtime": 1709726518875.4146,
+      "modified": false
+    },
+    ".gitignore": {
+      "type": "-",
+      "size": 391,
+      "lmtime": 1709724000000,
+      "modified": false
+    },
+    ".next": {
+      "build-manifest.json": {
+        "type": "-",
+        "size": 294,
+        "lmtime": 0,
+        "modified": false
+      },
+      "cache": {},
+      "package.json": {
+        "type": "-",
+        "size": 20,
+        "lmtime": 1709737234625.1235,
+        "modified": false
+      },
+      "react-loadable-manifest.json": {
+        "type": "-",
+        "size": 2,
+        "lmtime": 1709739586748.0337,
+        "modified": false
+      },
+      "server": {},
+      "static": {},
+      "trace": {
+        "type": "-",
+        "size": 18060,
+        "lmtime": 0,
+        "modified": false
+      }
+    },
+    ".vscode": {},
+    "README.md": {
+      "type": "-",
+      "size": 96,
+      "lmtime": 1709741819987.8262,
+      "modified": false
+    },
+    "cms-wordpress-app.code-workspace": {
+      "type": "-",
+      "size": 60,
+      "lmtime": 1709740139816.8542,
+      "modified": false
+    },
+    "components": {},
+    "docs": {},
+    "index.html": {
+      "type": "-",
+      "size": 464,
+      "lmtime": 0,
+      "modified": false
+    },
+    "lib": {},
+    "next-env.d.ts": {
+      "type": "-",
+      "size": 201,
+      "lmtime": 1709726185774.7107,
+      "modified": false
+    },
+    "next.config.js": {
+      "type": "-",
+      "size": 569,
+      "lmtime": 1709727333635.452,
+      "modified": false
+    },
+    "node_modules": {
+      ".bin": {
+        ".node-version": {
+          "type": "-",
+          "size": 3,
+          "lmtime": 0,
+          "modified": false
+        },
+        "autoprefixer": {
+          "type": "l",
+          "size": 32,
+          "lmtime": 0,
+          "modified": false
+        },
+        "browserslist": {
+          "type": "l",
+          "size": 22,
+          "lmtime": 0,
+          "modified": false
+        },
+        "cssesc": {
+          "type": "l",
+          "size": 20,
+          "lmtime": 0,
+          "modified": false
+        },
+        "glob": {
+          "type": "l",
+          "size": 24,
+          "lmtime": 0,
+          "modified": false
+        },
+        "jiti": {
+          "type": "l",
+          "size": 19,
+          "lmtime": 0,
+          "modified": false
+        },
+        "loose-envify": {
+          "type": "l",
+          "size": 22,
+          "lmtime": 0,
+          "modified": false
+        },
+        "nanoid": {
+          "type": "l",
+          "size": 24,
+          "lmtime": 0,
+          "modified": false
+        },
+        "next": {
+          "type": "l",
+          "size": 21,
+          "lmtime": 0,
+          "modified": false
+        },
+        "node-which": {
+          "type": "l",
+          "size": 23,
+          "lmtime": 0,
+          "modified": false
+        },
+        "resolve": {
+          "type": "l",
+          "size": 22,
+          "lmtime": 0,
+          "modified": false
+        },
+        "sucrase": {
+          "type": "l",
+          "size": 22,
+          "lmtime": 0,
+          "modified": false
+        },
+        "sucrase-node": {
+          "type": "l",
+          "size": 27,
+          "lmtime": 0,
+          "modified": false
+        },
+        "tailwind": {
+          "type": "l",
+          "size": 25,
+          "lmtime": 0,
+          "modified": false
+        },
+        "tailwindcss": {
+          "type": "l",
+          "size": 25,
+          "lmtime": 0,
+          "modified": false
+        },
+        "tsc": {
+          "type": "l",
+          "size": 21,
+          "lmtime": 0,
+          "modified": false
+        },
+        "tsserver": {
+          "type": "l",
+          "size": 26,
+          "lmtime": 0,
+          "modified": false
+        },
+        "update-browserslist-db": {
+          "type": "l",
+          "size": 32,
+          "lmtime": 0,
+          "modified": false
+        },
+        "yaml": {
+          "type": "l",
+          "size": 15,
+          "lmtime": 0,
+          "modified": false
+        }
+      },
+      ".package-lock.json": {
+        "type": "-",
+        "size": 64175,
+        "lmtime": 0,
+        "modified": false
+      },
+      ".yarn-integrity": {
+        "type": "-",
+        "size": 24153,
+        "lmtime": 0,
+        "modified": false
+      },
+      "@alloc": {},
+      "@babel": {},
+      "@isaacs": {},
+      "@jridgewell": {},
+      "@next": {},
+      "@nodelib": {},
+      "@pkgjs": {},
+      "@swc": {},
+      "@types": {},
+      "ansi-regex": {},
+      "ansi-styles": {},
+      "any-promise": {},
+      "anymatch": {},
+      "arg": {},
+      "autoprefixer": {},
+      "balanced-match": {},
+      "binary-extensions": {},
+      "brace-expansion": {},
+      "braces": {},
+      "browserslist": {},
+      "busboy": {},
+      "camelcase-css": {},
+      "caniuse-lite": {},
+      "chokidar": {},
+      "classnames": {},
+      "client-only": {},
+      "color-convert": {},
+      "color-name": {},
+      "commander": {},
+      "cross-spawn": {},
+      "cssesc": {},
+      "csstype": {},
+      "date-fns": {},
+      "didyoumean": {},
+      "dlv": {},
+      "eastasianwidth": {},
+      "electron-to-chromium": {},
+      "emoji-regex": {},
+      "escalade": {},
+      "fast-glob": {},
+      "fastq": {},
+      "fill-range": {},
+      "foreground-child": {},
+      "fraction.js": {},
+      "function-bind": {},
+      "glob": {},
+      "glob-parent": {},
+      "graceful-fs": {},
+      "hasown": {},
+      "is-binary-path": {},
+      "is-core-module": {},
+      "is-extglob": {},
+      "is-fullwidth-code-point": {},
+      "is-glob": {},
+      "is-number": {},
+      "isexe": {},
+      "jackspeak": {},
+      "jiti": {},
+      "js-tokens": {},
+      "lilconfig": {},
+      "lines-and-columns": {},
+      "loose-envify": {},
+      "lru-cache": {},
+      "merge2": {},
+      "micromatch": {},
+      "minimatch": {},
+      "minipass": {},
+      "mz": {},
+      "nanoid": {},
+      "next": {},
+      "node-releases": {},
+      "normalize-path": {},
+      "normalize-range": {},
+      "object-assign": {},
+      "object-hash": {},
+      "path-key": {},
+      "path-parse": {},
+      "path-scurry": {},
+      "picocolors": {},
+      "picomatch": {},
+      "pify": {},
+      "pirates": {},
+      "postcss": {},
+      "postcss-import": {},
+      "postcss-js": {},
+      "postcss-load-config": {},
+      "postcss-nested": {},
+      "postcss-selector-parser": {},
+      "postcss-value-parser": {},
+      "queue-microtask": {},
+      "react": {},
+      "react-dom": {},
+      "read-cache": {},
+      "readdirp": {},
+      "regenerator-runtime": {},
+      "resolve": {},
+      "reusify": {},
+      "run-parallel": {},
+      "scheduler": {},
+      "shebang-command": {},
+      "shebang-regex": {},
+      "signal-exit": {},
+      "source-map-js": {},
+      "streamsearch": {},
+      "string-width": {},
+      "string-width-cjs": {},
+      "strip-ansi": {},
+      "strip-ansi-cjs": {},
+      "styled-jsx": {},
+      "sucrase": {},
+      "supports-preserve-symlinks-flag": {},
+      "tailwindcss": {},
+      "thenify": {},
+      "thenify-all": {},
+      "to-regex-range": {},
+      "ts-interface-checker": {},
+      "tslib": {},
+      "typescript": {},
+      "undici-types": {},
+      "update-browserslist-db": {},
+      "util-deprecate": {},
+      "which": {},
+      "wrap-ansi": {},
+      "wrap-ansi-cjs": {},
+      "yaml": {}
+    },
+    "package-lock.json": {
+      "type": "-",
+      "size": 68299,
+      "lmtime": 0,
+      "modified": false
+    },
+    "package.json": {
+      "type": "-",
+      "size": 529,
+      "lmtime": 1709724000000,
+      "modified": false
+    },
+    "pages": {},
+    "postcss.config.js": {
+      "type": "-",
+      "size": 204,
+      "lmtime": 1709724000000,
+      "modified": false
+    },
+    "public": {},
+    "stderr.log": {
+      "type": "-",
+      "size": 1274,
+      "lmtime": 0,
+      "modified": false
+    },
+    "styles": {},
+    "tailwind.config.js": {
+      "type": "-",
+      "size": 791,
+      "lmtime": 1709724000000,
+      "modified": false
+    },
+    "tmp": {},
+    "tsconfig.json": {
+      "type": "-",
+      "size": 510,
+      "lmtime": 1709724000000,
+      "modified": false
+    },
+    "yarn.lock": {
+      "type": "-",
+      "size": 39376,
+      "lmtime": 0,
+      "modified": false
+    }
+  },
+  "$version": 1
+}
