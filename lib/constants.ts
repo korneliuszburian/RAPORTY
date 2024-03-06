@@ -1,5 +1,5 @@
 export const EXAMPLE_PATH = "cms-wordpress";
-export const CMS_NAME = "RA@PORTY";
+export const CMS_NAME = "R@PORTY";
 export const CMS_URL = "https://wordpress.org";
 export const OG_URL = "https://rekurencja.com";
 export const HOME_OG_IMAGE_URL =

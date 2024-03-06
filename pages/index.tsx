@@ -1,8 +1,4 @@
-import MoreStories from "../components/more-stories";
-import HeroPost from "../components/hero-post";
 import Intro from "../components/intro";
-import { getAllPostsForHome } from "../lib/api";
-import { CMS_NAME } from "../lib/constants";
 import Head from "next/head";
 import { GetStaticProps } from "next";
 import Container from "../components/container";
@@ -16,7 +12,7 @@ export default function Index({ allReports: { edges }, preview }) {
   return (
     <Layout preview={preview}>
       <Head>
-        <title>R@PORT</title>
+        <title>R@PORTY</title>
       </Head>
       <Container>
         <Intro />
