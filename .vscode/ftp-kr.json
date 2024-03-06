@@ -1,0 +1,13 @@
+{
+  "host": "master.proudhost.eu",
+  "protocol": "ftp",
+  "port": 21,
+  "username": "bless9563",
+  "password": "8#45Mqh3r&89Nsge58",
+  "remotePath": "",
+  "fileNameEncoding": "utf8",
+  "autoUpload": false,
+  "autoDelete": false,
+  "autoDownload": false,
+  "ignore": [".git", "/.vscode"]
+}

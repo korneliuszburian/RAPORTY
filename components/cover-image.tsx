@@ -15,6 +15,7 @@ interface Props {
 export default function CoverImage({ title, coverImage, slug }: Props) {
   const image = (
     <Image
+      unoptimized
       width={2000}
       height={1000}
       alt={`Cover Image for ${title}`}

@@ -1,45 +1,53 @@
-import Head from "next/head";
-import { GetStaticProps } from "next";
-import Container from "../components/container";
 import MoreStories from "../components/more-stories";
 import HeroPost from "../components/hero-post";
 import Intro from "../components/intro";
-import Layout from "../components/layout";
 import { getAllPostsForHome } from "../lib/api";
 import { CMS_NAME } from "../lib/constants";
+import Head from "next/head";
+import { GetStaticProps } from "next";
+import Container from "../components/container";
+import Layout from "../components/layout";
+import { getAllReportsForHome } from "../lib/api"; // Updated import
 
-export default function Index({ allPosts: { edges }, preview }) {
-  const heroPost = edges[0]?.node;
-  const morePosts = edges.slice(1);
+export default function Index({ allReports: { edges }, preview }) {
+  const heroReport = edges[0]?.node; // Renamed from heroPost to heroReport
+  const moreReports = edges.slice(1); // Renamed from morePosts to moreReports
 
   return (
     <Layout preview={preview}>
       <Head>
-        <title>{`Next.js Blog Example with ${CMS_NAME}`}</title>
+        <title>R@PORT</title>
       </Head>
       <Container>
         <Intro />
-        {heroPost && (
-          <HeroPost
-            title={heroPost.title}
-            coverImage={heroPost.featuredImage}
-            date={heroPost.date}
-            author={heroPost.author}
-            slug={heroPost.slug}
-            excerpt={heroPost.excerpt}
-          />
+        {heroReport && (
+          // Update this component as needed to display report data
+          <div>
+            <h1>{heroReport.title}</h1>
+            {/* Render additional report details here */}
+          </div>
         )}
-        {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+        {moreReports.length > 0 && (
+          // Update this component as needed to display multiple reports
+          <div>
+            {moreReports.map(({ node }) => (
+              <div key={node.id}>
+                <h2>{node.title}</h2>
+                {/* Render additional report details here */}
+              </div>
+            ))}
+          </div>
+        )}
       </Container>
     </Layout>
   );
 }
 
 export const getStaticProps: GetStaticProps = async ({ preview = false }) => {
-  const allPosts = await getAllPostsForHome(preview);
+  const allReports = await getAllReportsForHome(); // Updated function call
 
   return {
-    props: { allPosts, preview },
+    props: { allReports, preview },
     revalidate: 10,
   };
 };

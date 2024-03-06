@@ -39,9 +39,29 @@ export async function getPreviewPost(id, idType = "DATABASE_ID") {
     }`,
     {
       variables: { id, idType },
-    },
+    }
   );
   return data.post;
+}
+
+export async function getAllReportsForHome() {
+  const data = await fetchAPI(
+    `{
+      reports {
+        edges {
+          node {
+            id
+            title
+            reports {
+              folderName
+              name
+            }
+          }
+        }
+      }
+    }`
+  );
+  return data?.reports;
 }
 
 export async function getAllPostsWithSlug() {
@@ -95,7 +115,7 @@ export async function getAllPostsForHome(preview) {
         onlyEnabled: !preview,
         preview,
       },
-    },
+    }
   );
 
   return data?.posts;
@@ -190,7 +210,7 @@ export async function getPostAndMorePosts(slug, preview, previewData) {
         id: isDraft ? postPreview.id : slug,
         idType: isDraft ? "DATABASE_ID" : "SLUG",
       },
-    },
+    }
   );
 
   // Draft posts may not have an slug
