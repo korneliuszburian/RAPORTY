@@ -19,7 +19,7 @@ const DynamicIframe = ({ src }) => {
     <iframe
       src={src}
       style={{
-        width: "1920px",
+        width: "1px",
         minWidth: "100%",
         minHeight: "100%",
         height: "1080px",
