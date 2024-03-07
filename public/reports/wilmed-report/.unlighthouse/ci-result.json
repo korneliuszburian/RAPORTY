@@ -1,0 +1,1818 @@
+[
+  {
+    "path": "/",
+    "score": 0.94,
+    "performance": 0.97,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/aktualnosci/",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/aktualnosci/15-grudnia-klinika-wilmed-bedzie-czynna-do-godziny-15-00/",
+    "score": 0.92,
+    "performance": 0.96,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/aktualnosci/bezplatna-diagnostyka-i-leczenie-grzybicy-paznokci-w-wilmedzie/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/aktualnosci/biopsja-tarczycy-w-ramach-szybkiej-sciezki-onkologicznej-finansowanej-przez-nfz/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/aktualnosci/majowa-promocja-na-zabiegi-mezoterapii-cienkoiglowej/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/aktualnosci/prof-dr-hab-med-tadeusz-pienkowski-specjalista-onkologii-klinicznej/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/aktualnosci/sala-operacyjna-oferta-wynajmu/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/aktualnosci/sledz-nas-na-kanalach-social-media/",
+    "score": 0.92,
+    "performance": 0.97,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/aktualnosci/zapytanie-ofertowe/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/antykoncepcja/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/badania-kliniczne/",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.89,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/badania-kliniczne/sekcja-dla-pacjenta/",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/badania-kliniczne/sekcja-dla-pacjenta/bezplatna-diagnostyka-i-leczenie-grzybicy-paznokci-w-wilmedzie/",
+    "score": 0.91,
+    "performance": 0.94,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/badania-kliniczne/sekcja-dla-pacjenta/bezplatne-leczenie-choroby-zwyrodnieniowej-stawow-kolanowych/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/badania-kliniczne/sekcja-dla-pacjenta/bezplatne-leczenie-owrzodzen-w-zespole-stopy-cukrzycowej/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/badania-kliniczne/sekcja-dla-pacjenta/bezplatne-leczenie-owrzodzenia-podudzi/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/badania-kliniczne/sekcja-dla-pacjenta/bezplatne-leczenie-radikulopatii-ledzwiowo-krzyzowej/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/badania-kliniczne/sekcja-dla-pacjenta/bezplatne-liczenie-uogolnionego-raka-piersi/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/badania-kliniczne/sekcja-dla-pacjenta/leczenie-owrzodzen-konczyn-dolnych-pochodzenia-zylnego-lub-zylno-tetniczego/",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/badania-kliniczne/sekcja-dla-pacjenta/leczenie-przewleklej-obturacyjnej-choroby-pluc-pochp/",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/badania-kliniczne/sekcja-dla-sponsora/",
+    "score": 0.91,
+    "performance": 0.93,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/badania-kliniczne/zakres-terapeutyczny/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/baza-wiedzy/",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/biopsja-mammotomiczna/",
+    "score": 0.9,
+    "performance": 0.9,
+    "accessibility": 0.94,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/biopsje-diagnostyczne/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/biopsje/",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.94,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/blog/koniec-klopotow-z-alergia/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/blog/mezoterapia-cienkoiglowa-czyli-lifting-bez-skalpela/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/blog/mezoterapia-rrs-tensor-lift/",
+    "score": 0.91,
+    "performance": 0.94,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/blog/operacje-haluksow/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/blog/problemy-z-prostata/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/blog/problemy-ze-wzwodem/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/blog/stres-ukryte-zagrozenie/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/blog/wilmed-w-dobie-koronawirusa-zasady-bezpieczenstwa/",
+    "score": 0.91,
+    "performance": 0.95,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/category/aktualnosci/",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/category/blog/",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/category/chirurgia-estetyczna/",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/category/chirurgia/",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/category/dermatologia/",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/category/profilaktyka/",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/category/proktologia/",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/category/urologia/",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/cennik/",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/chirurgia-estetyczna/kompleksowe-leczenie-nadwagi-i-otylosci/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/chirurgia-estetyczna/korekcja-powiek-nosa-i-uszu-zabiegi-nie-tylko-estetyczne/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/chirurgia-estetyczna/lifting-twarzy/",
+    "score": 0.94,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/chirurgia-estetyczna/lipofilling-powiekszanie-piersi-wlasnym-tluszczem/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/chirurgia-estetyczna/liposukcja-i-trwalosc-jej-efektow/",
+    "score": 0.94,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/chirurgia-estetyczna/okolice-ciala-w-zabiegach-liposukcji/",
+    "score": 0.94,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/chirurgia-estetyczna/operacja-plastyczna-nosa/",
+    "score": 0.94,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/chirurgia-estetyczna/powiekszanie-piersi-implantami/",
+    "score": 0.94,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/chirurgia-onkologiczna/skontroluj-stan-skory-po-wakacjach/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/chirurgia-onkologiczna/sprawdz-stan-swojej-skory-przed-latem/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/chirurgia-onkologiczna/sprawdz-stan-swojej-skory-wakacjach/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/chirurgia-onkologiczna/usuniecie-zmian-skornych/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/chirurgia/laparoskopowa-operacja-pecherzyka-zolciowego-2/",
+    "score": 0.94,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/chirurgia/nowoczesne-leczenie-przepuklin-w-klinice-wilmed/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/chirurgia/pecherzyk-zolciowy-i-dieta/",
+    "score": 0.94,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/chirurgia/przepuklina-pachwinowa-czym-jest-i-jak-mozna-ja-leczyc/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/chirurgia/przepukliny/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/choroby-nadnerczy/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/choroby-piersi/diagnostyka-i-usuwanie-zmian-w-piersiach/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/choroby-piersi/operacja-raka-piersi-to-nie-wyrok/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/choroby-piersi/profilaktyka-raka-piersi-w-klinice-wilmed/",
+    "score": 0.91,
+    "performance": 0.93,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/choroby-piersi/profilaktyka-raka-piersi/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/choroby-piersi/raka-piersi-mozna-skutecznie-leczyc/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/choroby-przysadki/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/choroby-tarczycy/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/dermatologia/grzybica-paznokci-letni-problem/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/dermatologia/uwaga-na-kleszcze/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/dietetyka/dieta-chorobach-dlaczego-wazna/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/dietetyka/zdrowe-odzywianie-poradz-sie-dietetyka/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/dyskopatia/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/endoskopowe-leczenie-zatok/",
+    "score": 0.9,
+    "performance": 0.98,
+    "accessibility": 0.89,
+    "best-practices": 0.96,
+    "seo": 0.77
+  },
+  {
+    "path": "/flebologia/leczenie-zylakow/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/flebologia/pajaczki-i-zylaki-trzeba-je-leczyc/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/flebologia/zylaki-to-sie-leczy/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/galeria/",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/galeria/gabinety/",
+    "score": 0.9,
+    "performance": 0.94,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/galeria/otwarcie-placowki-w-nowej-lokalizacji/",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/galeria/szpital-wilmed/",
+    "score": 0.9,
+    "performance": 0.95,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/galeria/wnetrza/",
+    "score": 0.9,
+    "performance": 0.94,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/ginekologia/chron-sie-przed-rakiem-szyjki-macicy/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/ginekologia/lepiej-zapobiegac-niz-leczyc/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/ginekologia/wirus-hpv-co-trzeba-o-nich-wiedziec/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/histeroskopia/",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/klauzula-informacyjna/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/konsultacja/chirurgiczny-lifting-twarzy/",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/konsultacja/korekcja-uszu/",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/konsultacja/lip-lift/",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/konsultacja/operacja-plastyczna-nosa/",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/konsultacja/plastyka-brzucha/",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/konsultacja/plastyka-powiek/",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/konsultacja/powiekszenie-piersi-implantami/",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/konsultacja/usuwanie-ginekomastii/",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/konsultacje/",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/kontakt/",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/korekcja-otoczek-sutkowych/",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.94,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/korekcja-powiek/",
+    "score": 0.9,
+    "performance": 0.9,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/korekcja-uszu/",
+    "score": 0.9,
+    "performance": 0.98,
+    "accessibility": 0.89,
+    "best-practices": 0.96,
+    "seo": 0.77
+  },
+  {
+    "path": "/labioplastyka/",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/laparoskopia-ginekologiczna/",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/laryngologia/endoskopowe-leczenie-zatok/",
+    "score": 0.94,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/leczenie-bolu/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.94,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/leczenie-chorob-piersi/",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.94,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/leczenie-dyskopatii/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.94,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/leczenie-dysplazji-szyjki-macicy/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/leczenie-nadpotliwosci/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/leczenie-palca-trzaskajacego-choroby-de-quervain/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/leczenie-przepuklin/",
+    "score": 0.89,
+    "performance": 0.98,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 0.69
+  },
+  {
+    "path": "/leczenie-raka-szyjki-macicy/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/leczenie-ropni-odbytu/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/leczenie-stanow-zapalnych-szyjki-macicy/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/leczenie-zespolow-bolowych-odbytu/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/leczenie-zespolu-ciesni-nadgarstka/",
+    "score": 0.92,
+    "performance": 0.97,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/lifting-twarzy/",
+    "score": 0.9,
+    "performance": 0.99,
+    "accessibility": 0.89,
+    "best-practices": 0.96,
+    "seo": 0.77
+  },
+  {
+    "path": "/liplift/",
+    "score": 0.9,
+    "performance": 0.99,
+    "accessibility": 0.89,
+    "best-practices": 0.96,
+    "seo": 0.77
+  },
+  {
+    "path": "/lipofiling-powiekszanie-piersi-wlasnym-tluszczem/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/lipoliza-iniekcyjna/",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/liposukcja/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/maloinwazyjna-metoda-leczenia-zylakow-konczyn-dolnych-flebogrif/",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/medycyna-estetyczna/dermatologia-estetyczna-w-sluzbie-urody/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/medycyna-estetyczna/mezoterapii-cienkoiglowej-natychmiastowy-efekt-bez-skalpela/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/medycyna-estetyczna/ostatni-dzwonek-na-odswiezenie-skory-przed-wiosna/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/medycyna-estetyczna/peelingi-medyczne-odswiezenie-dla-twojej-zmeczonej-cery/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/medycyna-estetyczna/wilmed-na-lato-czyli-zdrowie-i-uroda-podczas-wakacji/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/mezoterapia-cienkoiglowa/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/nfz-ubezpieczenia/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/o-nas/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/operacja-brodawek-piersi/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.94,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/operacja-ginekomastii/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/operacja-powrozka-nasiennego/",
+    "score": 0.9,
+    "performance": 0.98,
+    "accessibility": 0.89,
+    "best-practices": 0.96,
+    "seo": 0.77
+  },
+  {
+    "path": "/operacja-przegrody-nosowej/",
+    "score": 0.9,
+    "performance": 0.98,
+    "accessibility": 0.89,
+    "best-practices": 0.96,
+    "seo": 0.77
+  },
+  {
+    "path": "/operacja-przykurczu-dupuytrena/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/operacja-wkleslych-brodawek/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/operacje-haluksow/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/operacje-przepuklin/",
+    "score": 0.88,
+    "performance": 0.94,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 0.69
+  },
+  {
+    "path": "/operacje-sciegna-achillesa/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/operacje-zylakow/",
+    "score": 0.9,
+    "performance": 0.98,
+    "accessibility": 0.89,
+    "best-practices": 0.96,
+    "seo": 0.77
+  },
+  {
+    "path": "/ortopedia/artroskopia-stawow-kolanowych/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/ortopedia/gdy-przytrafi-ci-sie-zimowa-kontuzja/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/ortopedia/maloinwazyjne-operacje-kregoslupa-w-klinice-wilmed/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/ortopedia/minimalnie-inwazyjne-operacje-dysku/",
+    "score": 0.92,
+    "performance": 0.97,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/ortopedia/nowoczesne-leczenie-halluksow-w-klinice-wilmed/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/ortopedia/nowoczesne-leczenie-haluksow-wywiad-pacjentka-kliniki-wilmed/",
+    "score": 0.9,
+    "performance": 0.95,
+    "accessibility": 0.93,
+    "best-practices": 0.96,
+    "seo": 0.77
+  },
+  {
+    "path": "/ortopedia/osocze-bogatoplytkowe-innowacyjna-metoda-leczenia-bolow-stawow/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/ortopedia/zespol-ciesni-nadgarstka-trzeba-o-nim-wiedziec/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/page-category/zabiegi/",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/pecherzyk-zolciowy/",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/peeling-medyczny/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/plastyka-brzucha/",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 0.96,
+    "seo": 0.77
+  },
+  {
+    "path": "/plastyka-nosa/",
+    "score": 0.9,
+    "performance": 0.99,
+    "accessibility": 0.89,
+    "best-practices": 0.96,
+    "seo": 0.77
+  },
+  {
+    "path": "/plastyka-powiek/",
+    "score": 0.9,
+    "performance": 0.97,
+    "accessibility": 0.89,
+    "best-practices": 0.96,
+    "seo": 0.77
+  },
+  {
+    "path": "/plastyka-powlok-brzusznych/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/platnosci-ratalne/",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/podstrona-uzytkowo-tekstowa/",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/polityka/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/powiekszanie-piersi/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.94,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/profilaktyka-raka-jelita-grubego/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/profilaktyka/drogie-panie-dbajcie-o-swoje-zdrowie/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/profilaktyka/profilaktyka-to-meska-sprawa/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/proktologia/do-proktologa-bez-wstydu/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/proktologia/klykciny-konczyste-co-trzeba-o-nich-wiedziec/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/proktologia/proktologia-bez-wstydu/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/przetoka-okoloodbytnicza/",
+    "score": 0.9,
+    "performance": 0.98,
+    "accessibility": 0.89,
+    "best-practices": 0.96,
+    "seo": 0.77
+  },
+  {
+    "path": "/rekonstrukcja-piersi/",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.94,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/rekonstrukcje-wiezadel-stawu-skokowego/",
+    "score": 0.92,
+    "performance": 0.97,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/rekonstrukcje-wiezadlowe-lokcia-tenisisty-golfisty/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/relaksacja-napiec-karku-i-grzbietu-plecow/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/rodo/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/rynoseptoplastyka/",
+    "score": 0.9,
+    "performance": 0.97,
+    "accessibility": 0.89,
+    "best-practices": 0.96,
+    "seo": 0.77
+  },
+  {
+    "path": "/skleroterapia-pajaczkow/",
+    "score": 0.9,
+    "performance": 0.98,
+    "accessibility": 0.89,
+    "best-practices": 0.96,
+    "seo": 0.77
+  },
+  {
+    "path": "/skleroterapia-zylakow/",
+    "score": 0.9,
+    "performance": 0.98,
+    "accessibility": 0.89,
+    "best-practices": 0.96,
+    "seo": 0.77
+  },
+  {
+    "path": "/specjalisci/",
+    "score": 0.9,
+    "performance": 0.98,
+    "accessibility": 0.85,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/specjalisci/grzegorz-wawrzynowski/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/specjalisci/jacek-korzon/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/specjalisci/joanna-bonarek-sztaba/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/specjalisci/malgorzata-kwiatkowska/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/specjalisci/monika-drobniak/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/specjalisci/nina-seklecka/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/specjalisci/piotr-surowski/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/specjalisci/wojciech-gackowski/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/szczelina-odbytu/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/szczepienie-przeciw-hpv/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/terapia-osoczem-bogato-plytkowym/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/terapia-przeciazeniowych-bolow-plecow/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/torbiel-wlosowa/",
+    "score": 0.9,
+    "performance": 0.99,
+    "accessibility": 0.89,
+    "best-practices": 0.96,
+    "seo": 0.77
+  },
+  {
+    "path": "/trojwymiarowe-badanie-postawy-ciala-z-wykorzystaniem-swiatla-strukturalnego/",
+    "score": 0.92,
+    "performance": 0.96,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/ubezpieczenia-medyczne/",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.73
+  },
+  {
+    "path": "/ue/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/ue/doradztwo-dla-jtp-investment-sp-z-o-o-w-zakresie-wdrozenia-innowacji-technologicznej-procesowej/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/ue/poprawa-dostepnosci-i-jakosci-oferty-specjalistycznej-przychodni-lekarskiej-wilmed-poprzez-wdrozenie-zintegrowanego-systemu-informatycznego/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/urologia/wazektomia-nowoczesny-sposob-na-meska-antykoncepcje/",
+    "score": 0.94,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/urologia/wodniak-jadra-leczyc-szybko-i-skutecznie/",
+    "score": 0.94,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/usg-dopplera/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/usg-piersi/",
+    "score": 0.92,
+    "performance": 0.97,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/usg-transrektalne/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/uslugi/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/uslugi/badania/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/uslugi/endokrynologia/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/uslugi/fizjoterapia/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/uslugi/flebologia/",
+    "score": 0.9,
+    "performance": 0.98,
+    "accessibility": 0.89,
+    "best-practices": 0.96,
+    "seo": 0.77
+  },
+  {
+    "path": "/uslugi/ginekologia-estetyczna/",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/uslugi/ginekologia/",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.89,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/uslugi/porty-naczyniowe/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/uslugi/reumatologia/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/usuniecie-migdalkow/",
+    "score": 0.9,
+    "performance": 0.98,
+    "accessibility": 0.89,
+    "best-practices": 0.96,
+    "seo": 0.77
+  },
+  {
+    "path": "/usuwanie-ginekomastii/",
+    "score": 0.89,
+    "performance": 0.98,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 0.69
+  },
+  {
+    "path": "/usuwanie-guzow-piersi/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.94,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/usuwanie-hemoroidow/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.94,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/usuwanie-klykcin-konczystych/",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/usuwanie-nadzerek-metoda-kriochirurgiczna/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/usuwanie-polipow-odbytu/",
+    "score": 0.93,
+    "performance": 0.99,
+    "accessibility": 0.94,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/usuwanie-torbieli/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/usuwanie-zmarszczek/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/usuwanie-zylakow-evrf/",
+    "score": 0.9,
+    "performance": 0.98,
+    "accessibility": 0.89,
+    "best-practices": 0.96,
+    "seo": 0.77
+  },
+  {
+    "path": "/videodermatoskopia/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.94,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/wertebroplastyka/",
+    "score": 0.92,
+    "performance": 0.97,
+    "accessibility": 0.94,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/wodniak-jadra/",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/zabieg-wazektomii/",
+    "score": 0.9,
+    "performance": 0.98,
+    "accessibility": 0.89,
+    "best-practices": 0.96,
+    "seo": 0.77
+  },
+  {
+    "path": "/zabiegi-kosmetoproktologiczne/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/zabiegi-odmladzajace-na-bazie-osocza-bogatoplytkoweg/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/zabiegi-odmladzajace/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/zabiegi-wertebroplastyki-kyfoplastyki-i-stentoplastyki-kregow/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/zakrzepica-okoloodbytnicza/",
+    "score": 0.9,
+    "performance": 0.98,
+    "accessibility": 0.89,
+    "best-practices": 0.96,
+    "seo": 0.77
+  },
+  {
+    "path": "/zmiany-skorne/",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.94,
+    "best-practices": 1,
+    "seo": 0.77
+  }
+]

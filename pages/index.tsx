@@ -1,10 +1,14 @@
-import Intro from "../components/intro";
+import React from "react";
 import Head from "next/head";
 import { GetStaticProps } from "next";
 import Container from "../components/container";
 import Layout from "../components/layout";
+import Intro from "../components/intro";
+import DynamicIframe from "../components/dynamic-iframe";
 import { Tekken7Model } from "../components/tekken-model";
-import { getAllReportsForHome } from "../lib/api";
+
+const constructReportUrl = (folderName) =>
+  `/reports/${folderName}/.unlighthouse/index.html`;
 
 export default function Index({ allReports: { edges }, preview }) {
   const heroReport = edges[0]?.node;
@@ -19,8 +23,14 @@ export default function Index({ allReports: { edges }, preview }) {
         <Intro />
         {heroReport && (
           <div>
-            <h1>{heroReport.title}</h1>
-            {/* Additional hero report details can be rendered here */}
+            <h1>report title: {heroReport.reportFields.report_name}</h1>
+            <h3>report folder's name: {heroReport.reportFields.folder_name}</h3>
+            <p>
+              url: {constructReportUrl(heroReport.reportFields.folder_name)}
+            </p>
+            <DynamicIframe
+              src={constructReportUrl(heroReport.reportFields.folder_name)}
+            />
           </div>
         )}
         {moreReports.length > 0 && (
@@ -28,23 +38,47 @@ export default function Index({ allReports: { edges }, preview }) {
             {moreReports.map(({ node }) => (
               <div key={node.id}>
                 <h2>{node.title}</h2>
-                {/* Additional details for more reports can be rendered here */}
+                <h3>Folder: {node.reportFields.folder_name}</h3>
+                <p>URL: {constructReportUrl(node.reportFields.folder_name)}</p>
+                <DynamicIframe
+                  src={constructReportUrl(node.reportFields.folder_name)}
+                />
               </div>
             ))}
           </div>
         )}
-        {/* Additionally, display the Tekken7Model */}
         <Tekken7Model />
       </Container>
     </Layout>
   );
 }
-
-export const getStaticProps: GetStaticProps = async ({ preview = false }) => {
-  const allReports = await getAllReportsForHome(); // Updated function call
-
-  return {
-    props: { allReports, preview },
-    revalidate: 10,
-  };
-};
+export const getStaticProps = async ({ preview = false }) => ({
+  props: {
+    allReports: {
+      edges: [
+        {
+          node: {
+            id: 1,
+            title: "Example Report 1",
+            reportFields: {
+              report_name: "Bodymove - raport",
+              folder_name: "bodymove-report",
+            },
+          },
+        },
+        {
+          node: {
+            id: 2,
+            title: "Example Report 2",
+            reportFields: {
+              report_name: "MCP - raport",
+              folder_name: "mcp-report",
+            },
+          },
+        },
+      ],
+    },
+    preview,
+  },
+  revalidate: 10,
+});

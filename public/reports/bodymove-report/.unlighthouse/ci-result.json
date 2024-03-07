@@ -1,0 +1,1338 @@
+[
+  {
+    "path": "/",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/aktualnosci/",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/blog-medyczny/",
+    "score": 0.97,
+    "performance": 0.95,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/bol-brzucha-po-prawej-stronie-bol-brzucha-po-lewej-stronie/",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/bol-piety-przy-chodzeniu-czyli-ostroga-pietowa/",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 0.98
+  },
+  {
+    "path": "/bol-plecow-przyczyny-leczenie/",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/bol-stopy-przyczyny-objawy-leczenie/",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/bolesne-miesiaczkowanie-leczenie-osteopatia-ginekologiczna/",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/category/bez-kategorii/",
+    "score": 0.95,
+    "performance": 0.94,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.93
+  },
+  {
+    "path": "/category/chirurgia-naczyniowa/",
+    "score": 0.96,
+    "performance": 0.96,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.93
+  },
+  {
+    "path": "/category/fala-uderzeniowa/",
+    "score": 0.96,
+    "performance": 0.96,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.93
+  },
+  {
+    "path": "/category/ortopedia/",
+    "score": 0.95,
+    "performance": 0.93,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.93
+  },
+  {
+    "path": "/category/podologia/",
+    "score": 0.96,
+    "performance": 0.97,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.93
+  },
+  {
+    "path": "/category/rezonans-magnetyczny/",
+    "score": 0.96,
+    "performance": 0.96,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.93
+  },
+  {
+    "path": "/category/usg/",
+    "score": 0.95,
+    "performance": 0.95,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.93
+  },
+  {
+    "path": "/category/wkladki-ortopedyczne/",
+    "score": 0.96,
+    "performance": 0.96,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.93
+  },
+  {
+    "path": "/cennik/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/chirurg-naczyniowy-warszawa/",
+    "score": 0.98,
+    "performance": 0.96,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/czym-sie-rozni-obrzek-lipidowy-od-obrzeku-limfatycznego/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/deformacje-palca-v-przyczyny-objawy-i-leczenie/",
+    "score": 0.98,
+    "performance": 0.95,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/dehydratacja-krazka-miedzykregowego/",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/dietetyk-warszawa/",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/dna-moczanowa-inaczej-podagra-jak-sie-ja-leczy-i-jakie-sa-jej-przyczyny/",
+    "score": 0.98,
+    "performance": 0.96,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/drenaz-limfatyczny/",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/dziekujemy-za-wiadomosc/",
+    "score": 0.97,
+    "performance": 0.96,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/echo-serca-warszawa/",
+    "score": 0.97,
+    "performance": 0.92,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/elektrostymulator-compex-sp/",
+    "score": 0.97,
+    "performance": 0.95,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.97
+  },
+  {
+    "path": "/endometrioza/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/fala-uderzeniowa-skupiona-vs-fala-uderzeniowa-radialna/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/fala-uderzeniowa-skupiona-w-body-move-warszawa/",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/fala-uderzeniowa-warszawa/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/fizykoterapia/",
+    "score": 0.97,
+    "performance": 0.96,
+    "accessibility": 0.91,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/fizykoterapia/fizykoterapia-warszawa-elektroterapia/",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/fizykoterapia/fizykoterapia-warszawa-krioterapia/",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/fizykoterapia/fizykoterapia-warszawa-magnetoterapia/",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/fizykoterapia/laseroterapia-warszawa/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/fizykoterapia/ultradzwieki-warszawa/",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/ginekolog-warszawa/",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/guzki-schmorla/",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/hiperlordoza-przyczyny-objawy-leczenie/",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/holter-ekg-warszawa-zoliborz/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/holter-ekg-warszawa/",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/kardiolog-warszawa/",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/kiedy-warto-wykonac-badanie-usg/",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/kinesiotaping/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/konsultacje-lekarskie-online/",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/kontakt/",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/lakotka-w-kolanie/",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/leczenie-nadmiernej-potliwosci/",
+    "score": 0.97,
+    "performance": 0.98,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.97
+  },
+  {
+    "path": "/leczenie-zapalenia-sciegna-achillesa-za-pomoca-fali-uderzeniowej/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/lokiec-tenisisty/",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/metatarsalgia-bol-przedstopia/",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/neuralgia-miedzyzebrowa-co-trzeba-o-niej-wiedziec/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/niestabilnosc-stawu-skokowego-przyczyny-objawy-i-metody-leczenia/",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/oferta/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/opinie-pacjentow/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/opuchniete-lydki-co-moze-oznaczac-puchniecie-nog/",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/ortopeda-warszawa/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/osteopatia-uroginekologiczna/",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/ostroga-pietowa/",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/paluch-sztywny-przyczyny-objawy-leczenie/",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/plaskostopie-poprzeczne/",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/podolog-warszawa/",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/powiez-czym-jest-i-jak-mozna-ja-leczyc/",
+    "score": 0.98,
+    "performance": 0.96,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/pracownia-wkladek-ortopedycznych-wznawia-prace/",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/regeneracja-po-ciezkim-treningu-biegowym/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rehabilitacja-biodra/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.91,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rehabilitacja-biodra/dysplazja-stawu-biodrowego-warszawa/",
+    "score": 0.97,
+    "performance": 0.95,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.97
+  },
+  {
+    "path": "/rehabilitacja-biodra/konflikt-udowo-panewkowy-warszawa/",
+    "score": 0.97,
+    "performance": 0.98,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.97
+  },
+  {
+    "path": "/rehabilitacja-biodra/zespol-trzaskajacego-biodra-warszawa/",
+    "score": 0.74,
+    "performance": 1,
+    "accessibility": null,
+    "best-practices": 1,
+    "seo": 0.97
+  },
+  {
+    "path": "/rehabilitacja-kolana/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.91,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rehabilitacja-kolana/boczne-przyparcie-rzepki-warszawa/",
+    "score": 0.97,
+    "performance": 0.97,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.97
+  },
+  {
+    "path": "/rehabilitacja-kolana/bol-piszczeli-rehabilitacja-warszawa/",
+    "score": 0.97,
+    "performance": 0.98,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.97
+  },
+  {
+    "path": "/rehabilitacja-kolana/choroba-osgood-schlattera-warszawa/",
+    "score": 0.96,
+    "performance": 0.92,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.97
+  },
+  {
+    "path": "/rehabilitacja-kolana/itbs-warszawa/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.97
+  },
+  {
+    "path": "/rehabilitacja-kolana/kolano-biegacza-leczenie-warszawa/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 0.97
+  },
+  {
+    "path": "/rehabilitacja-kolana/uszkodzenie-lakotek-warszawa/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.97
+  },
+  {
+    "path": "/rehabilitacja-kolana/zapalenie-gesiej-stopki-leczenie-warszawa/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 0.97
+  },
+  {
+    "path": "/rehabilitacja-kolana/zerwanie-wiezadla-krzyzowego-acl-warszawa/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.97
+  },
+  {
+    "path": "/rehabilitacja-kregoslupa/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.91,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rehabilitacja-kregoslupa/dyskopatia-leczenie-nastawianie-kregoslupa-warszawa/",
+    "score": 0.97,
+    "performance": 0.96,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.97
+  },
+  {
+    "path": "/rehabilitacja-kregoslupa/kregarz-warszawa-nastawianie-kregoslupa/",
+    "score": 0.97,
+    "performance": 0.98,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.97
+  },
+  {
+    "path": "/rehabilitacja-kregoslupa/leczenie-rehabilitacja-wad-postawy-warszawa/",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.97
+  },
+  {
+    "path": "/rehabilitacja-kregoslupa/osteopata-warszawa/",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.97
+  },
+  {
+    "path": "/rehabilitacja-kregoslupa/rwa-barkowa-kregarz-warszawa/",
+    "score": 0.97,
+    "performance": 0.97,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 0.97
+  },
+  {
+    "path": "/rehabilitacja-kregoslupa/rwa-kulszowa-leczenie-objawy-przyczyny/",
+    "score": 0.97,
+    "performance": 0.94,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 0.97
+  },
+  {
+    "path": "/rehabilitacja-kregoslupa/rwa-udowa-rehabilitacja-kregoslupa-warszawa/",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.97
+  },
+  {
+    "path": "/rehabilitacja-po-rekonstrukcji-wiezadla-acl-w-kolanie-dlaczego-jest-tak-wazna/",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rehabilitacja-reki/",
+    "score": 0.97,
+    "performance": 0.96,
+    "accessibility": 0.91,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rehabilitacja-reki/leczenie-lokcia-tenisisty-warszawa/",
+    "score": 0.98,
+    "performance": 0.95,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rehabilitacja-reki/lokiec-golfisty-leczenie-warszawa/",
+    "score": 0.96,
+    "performance": 0.89,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rehabilitacja-reki/palec-trzaskajacy-leczenie-warszawa/",
+    "score": 0.98,
+    "performance": 0.96,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rehabilitacja-reki/uszkodzenie-stozka-rotatorow-warszawa/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rehabilitacja-reki/zamrozony-bark-leczenie-warszawa/",
+    "score": 0.96,
+    "performance": 0.88,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rehabilitacja-reki/zapalenie-kaletki-podbarkowej-leczenie-warszawa/",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rehabilitacja-reki/zapalenie-kaletki-podnaramiennej-warszawa/",
+    "score": 0.98,
+    "performance": 0.95,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rehabilitacja-reki/zespol-ciesni-nadgarstka-leczenie-warszawa/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rehabilitacja-stacjonarna-podczas-koronawirusa/",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rehabilitacja-stopy-po-operacji-haluksa-jakie-cwiczenia-sa-najskuteczniejsze/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rehabilitacja-stopy/",
+    "score": 0.97,
+    "performance": 0.97,
+    "accessibility": 0.91,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rehabilitacja-stopy/choroba-zwyrodnieniowa-stawu-skokowego-warszawa/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 0.98
+  },
+  {
+    "path": "/rehabilitacja-stopy/halluksy-leczenie-warszawa/",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 0.98
+  },
+  {
+    "path": "/rehabilitacja-stopy/niestabilnosc-stawu-skokowego-leczenie-rehabilitacja-warszawa/",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.98
+  },
+  {
+    "path": "/rehabilitacja-stopy/ostroga-pietowa-dolna-warszawa/",
+    "score": 0.75,
+    "performance": 1,
+    "accessibility": null,
+    "best-practices": 1,
+    "seo": 0.98
+  },
+  {
+    "path": "/rehabilitacja-stopy/ostroga-pietowa-gorna-warszawa/",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 0.98
+  },
+  {
+    "path": "/rehabilitacja-stopy/pieta-haglunda-warszawa/",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 0.98
+  },
+  {
+    "path": "/rehabilitacja-stopy/plaskostopie-podluzne-warszawa/",
+    "score": 0.95,
+    "performance": 0.87,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.98
+  },
+  {
+    "path": "/rehabilitacja-stopy/zapalenie-sciegna-achillesa-warszawa/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.98
+  },
+  {
+    "path": "/rehabilitacja-uroginekologiczna-warszawa/",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rehabilitacja-warszawa/",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.91,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rezonans-magnetyczny-glowy/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rezonans-magnetyczny-kolana/",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rezonans-magnetyczny-kregoslupa/",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rezonans-magnetyczny-stopy/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rezonans-magnetyczny-warszawa/",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rolowanie-czyli-jak-zadbac-o-zdrowie-miesni/",
+    "score": 0.98,
+    "performance": 0.96,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rzepka-kolanowa-urazy-leczenie/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/skleroterapia-co-trzeba-wiedziec-o-tym-zabiegu/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/skrecenie-stawu-skokowego-przyczyny-objawy-leczenie-i-profilaktyka/",
+    "score": 0.97,
+    "performance": 0.93,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/skrecenie-stopy-jak-sobie-z-tym-poradzic/",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/stopa-wydrazona-jak-wplywa-na-zdrowie-stop-i-jak-jej-zapobiegac/",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/stretching-co-trzeba-o-nim-wiedziec/",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/strzelanie-w-kolanach-kiedy-wybrac-sie-do-lekarza/",
+    "score": 0.97,
+    "performance": 0.94,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/suche-iglowanie-w-walce-z-bolem/",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/telekonsultacje-chirurgiczne/",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/telekonsultacje-ginekolog-online/",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/telekonsultacje-urolog-online/",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/terapia-hilt/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/terapia-indiba-activ-warszawa/",
+    "score": 0.98,
+    "performance": 0.96,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/urazy-sportowe-jak-ich-unikac-i-jak-sie-z-nimi-uporac/",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/urolog-warszawa/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/usg-barku-warszawa/",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/usg-biodra-warszawa/",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/usg-doppler-warszawa/",
+    "score": 0.98,
+    "performance": 0.96,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/usg-jamy-brzusznej-warszawa/",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/usg-klatki-piersiowej-i-srodpiersia/",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/usg-kolana-warszawa/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/usg-lokcia-warszawa/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/usg-miesni-i-sciegien-warszawa/",
+    "score": 0.97,
+    "performance": 0.91,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/usg-nerek-warszawa/",
+    "score": 0.98,
+    "performance": 0.95,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/usg-ortopedyczne-warszawa/",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.91,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/usg-piersi-podstawowa-profilaktyka/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/usg-piersi-warszawa/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/usg-prostaty-warszawa/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/usg-sciegna-achillesa-warszawa/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/usg-stawu-skokowego-warszawa/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/usg-stopy-warszawa/",
+    "score": 0.99,
+    "performance": 0.98,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/usg-tarczycy-warszawa/",
+    "score": 0.98,
+    "performance": 0.96,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/usg-tkanek-miekkich-warszawa/",
+    "score": 0.97,
+    "performance": 0.97,
+    "accessibility": 0.91,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/usg-ukladu-moczowego-nieinwazyjna-i-skuteczna-metoda-diagnostyki/",
+    "score": 0.98,
+    "performance": 0.95,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/usg-ukladu-moczowego-warszawa/",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/usg-urologiczne-warszawa/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.91,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/usg-warszawa/",
+    "score": 0.97,
+    "performance": 0.96,
+    "accessibility": 0.91,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/usg-zyl-i-tetnic-co-to-za-badanie/",
+    "score": 0.97,
+    "performance": 0.94,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/uslugi-podologiczne/",
+    "score": 0.96,
+    "performance": 0.89,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/uszkodzenia-sciegien-strzalkowych-przyczyny-objawy-i-leczenie/",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/wkladki-ortopedyczne-jako-metoda-leczenia-plaskostopia/",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/wkladki-ortopedyczne-warszawa/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/wspolpraca-mri-diagnostyka/",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/wypozyczalnia-sprzetu-medycznego-warszawa/",
+    "score": 0.97,
+    "performance": 0.98,
+    "accessibility": 0.89,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/wznawiamy-zabiegi-z-fali-uderzeniowej/",
+    "score": 0.97,
+    "performance": 0.96,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/zabiegi-fali-uderzeniowej-sposob-wplywaja-organizm/",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/zapalenie-sciegna-miesnia-piszczelowego-tylnego-przyczyny-objawy-i-metody-leczenia/",
+    "score": 0.97,
+    "performance": 0.93,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/zespol-bodymove/",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/zwyrodnienia-stawow-stopy-przyczyny-objawy-i-metody-leczenia/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/zwyrodnienie-stawu-barkowego-kiedy-konieczna-jest-operacja/",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/zylaki-przyczyny-objawy-leczenie/",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  }
+]

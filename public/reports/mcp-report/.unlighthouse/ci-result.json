@@ -1,0 +1,506 @@
+[
+  {
+    "path": "/",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.99
+  },
+  {
+    "path": "/aktualnosci/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.99
+  },
+  {
+    "path": "/centrum-mediacyjne/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/centrum-mediacyjne/mediacje-w-sporach-cywilnych/",
+    "score": 0.97,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 0.96,
+    "seo": 1
+  },
+  {
+    "path": "/centrum-mediacyjne/mediacje-w-sporach-gospodarczych/",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/centrum-mediacyjne/mediacje-w-sporach-pracowniczych/",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/centrum-mediacyjne/mediacje-w-sporach-rodzinnych/",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/czy-lekarze-stazysci-uprawnieni-sa-do-wystawiania-recept-pro-auctore-i-pro-familiae/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/darmowy-e-book-nagrywanie-personelu-medycznego-aspekt-prawny/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/dla-medykow/",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/dla-medykow/bledy-medyczne-sprawy-sadowe/",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 0.99
+  },
+  {
+    "path": "/dla-medykow/obsluga-prawna/",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 0.99
+  },
+  {
+    "path": "/dla-medykow/podmioty-lecznicze/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.99
+  },
+  {
+    "path": "/dla-osob-prywatnych/",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/dla-osob-prywatnych/obrona-i-reprezentacja-pokrzywdzonych-w-postepowaniach-karnych/",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 0.99
+  },
+  {
+    "path": "/dla-osob-prywatnych/obsluga-roszczen-cywilnych/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 0.99
+  },
+  {
+    "path": "/dla-osob-prywatnych/reprezentacja-i-pomoc-prawna-w-sprawach-rodzinnych/",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 0.99
+  },
+  {
+    "path": "/dla-osob-prywatnych/rozwod-katowice/",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/dla-osob-prywatnych/sprawy-rodzinne/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/dla-przedsiebiorcow/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/dla-przedsiebiorcow/obsluga-naleznosci-i-zobowiazan/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.99
+  },
+  {
+    "path": "/dla-przedsiebiorcow/ochrona-i-administracja-w-zakresie-danych-osobowych/",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/dla-przedsiebiorcow/prawnik-prawo-pracy/",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/dla-przedsiebiorcow/prawo-odpadowe/",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/dla-przedsiebiorcow/spolki-prawa-handlowego/",
+    "score": 0.94,
+    "performance": 0.94,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/dla-przedsiebiorcow/sprawy-karne/",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/dla-przedsiebiorcow/upadlosc-konsumencka-katowice/",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/dla-przedsiebiorcow/zastepstwo-procesowe/",
+    "score": 0.97,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 0.96,
+    "seo": 0.99
+  },
+  {
+    "path": "/dofinasowanie-wynagrodzen-pracownikow/",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/jak-zalozyc-spolke-z-o-o/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/jaki-jest-wlasciwy-sad-do-rozpoznania-sprawy-rozwodowej/",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/komentarz-obroncow/",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/koniec-z-fikcja-doreczenia-nawet-120-zl-wiecej-za-doreczenie/",
+    "score": 0.97,
+    "performance": 0.98,
+    "accessibility": 0.89,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/kontakt/",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.99
+  },
+  {
+    "path": "/koronawirus-a-nowe-przepisy-dla-pracodawcow-i-pracownikow/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/mozliwosc-odroczenia-skladek-zus/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/najczesciej-zadawane-pytania/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.98
+  },
+  {
+    "path": "/niewykonanie-umowy-z-powodu-koronawirusa-co-moze-zrobic-przedsiebiorca/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/nowelizacja-przepisow-o-upadlosci-konsumenckiej-artykul/",
+    "score": 0.97,
+    "performance": 0.99,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/odpowiedzialnosc-czlonkow-zarzadu-spolki-z-ograniczona-odpowiedzialnoscia/",
+    "score": 0.96,
+    "performance": 0.97,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/odszkodowanie-dla-pasazerow-za-opozniony-lot-termin-przedawnienia/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/ograniczenia-mozliwosci-przemieszczania-sie-najczesciej-zadawane-pytania/",
+    "score": 0.97,
+    "performance": 0.99,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/oswiadczenie-obroncow/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/polityka-prywatnosci/",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.87,
+    "best-practices": 1,
+    "seo": 0.98
+  },
+  {
+    "path": "/poznaj-nas/",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.99
+  },
+  {
+    "path": "/prawa-pracownika-w-trakcie-kryzysu/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/prawo-do-obrony-a-realny-dostep-do-akt-sprawy-na-etapie-rozpoznania-wniosku-o-tymczasowe-aresztowanie/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/ratujbiznes-pomoc-prawna-dla-przedsiebiorcow-katowice/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/specjalisci/adwokat-dr-michal-ciupa/",
+    "score": 0.97,
+    "performance": 1,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/specjalisci/adwokat-ewa-klich/",
+    "score": 0.97,
+    "performance": 1,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/specjalisci/adwokat-karol-ruzylo/",
+    "score": 0.97,
+    "performance": 1,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/spolka-cywilna-czy-to-forma-prowadzenia-dzialalnosci-gospodarczej-dla-ciebie/",
+    "score": 0.97,
+    "performance": 0.99,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/srodki-prawne-pozwalajace-na-ograniczenie-zatorow-platniczych/",
+    "score": 0.97,
+    "performance": 1,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/swiadczenie-postojowe/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/tarcza-antykryzysowa-na-jaka-pomoc-moga-liczyc-przedsiebiorcy/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/tworzenie-spolki-z-o-o-w-trybie-s24/",
+    "score": 0.93,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 1
+  },
+  {
+    "path": "/tymczasowe-aresztowanie-oczekiwanie-spoleczne-w-kontekscie-przepisow-prawa-i-orzecznictwa/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/zalety-i-wady-spolki-z-o-o/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/zarzad-sukcesyjny-czyli-dalsze-prowadzenie-przedsiebiorstwa-po-smierci-wlasciciela/",
+    "score": 0.97,
+    "performance": 1,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/zatory-platnicze-ochrona-wierzycieli/",
+    "score": 0.97,
+    "performance": 0.99,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/zgloszenie-do-centralnego-rejestru-beneficjentow-rzeczywistych/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/zmiana-wynagrodzen-pracownikow-podmiotow-leczniczych-od-1-lipca-2022-r/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/zwolnienie-ze-skladek-zus-kogo-dotyczy/",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  }
+]
